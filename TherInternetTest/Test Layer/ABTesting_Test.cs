@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TheInternetDevHaffnerFramework.Pages_Layer;
+using TheInternetFramework.Pages_Layer;
 
 namespace TherInternetTest
 {

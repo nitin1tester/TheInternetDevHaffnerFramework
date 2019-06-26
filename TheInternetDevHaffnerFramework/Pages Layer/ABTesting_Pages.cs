@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TheInternetDevHaffnerFramework.TestBase;
+using TheInternetFramework.TestBase;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace TheInternetDevHaffnerFramework.Pages_Layer
+namespace TheInternetFramework.Pages_Layer
 {
     public class ABTesting_Pages
     {
